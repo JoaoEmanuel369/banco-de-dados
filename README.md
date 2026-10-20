@@ -1,4 +1,4 @@
-#🗄️ Estudos de Banco de Dados
+# 🗄️ Estudos de Banco de Dados
 
 Bem-vindo ao meu repositório de estudos dedicado a **Banco de Dados**! Este espaço foi criado para documentar minha jornada de aprendizado, registrar anotações teóricas, armazenar scripts práticos e organizar projetos sobre bancos de dados relacionais e não-relacionais (NoSQL).
 
