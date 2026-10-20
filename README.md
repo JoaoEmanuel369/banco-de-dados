@@ -29,4 +29,4 @@ Bem-vindo ao meu repositório de estudos dedicado a **Banco de Dados**! Este esp
 ---
 
 ✉️ **Autor:** Seu Nome  
-🔗 [LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/jo%C3%A3o-emanuel-ribeiro-prates-de-moura-3ba5b4341/?isSelfProfile=true)) | [GitHub](https://github.com/seu-usuario)
+🔗 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-emanuel-ribeiro-prates-de-moura-3ba5b4341/?isSelfProfile=true) | [GitHub](https://github.com/JoaoEmanuel369)
